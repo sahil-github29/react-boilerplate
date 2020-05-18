@@ -1,0 +1,6 @@
+{
+  "extends": ["react-app", "prettier"],
+  "rules": {
+    "react/self-closing-comp": 1
+  }
+}
